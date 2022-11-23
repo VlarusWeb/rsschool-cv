@@ -5,6 +5,7 @@
   * **Phone:** +371 28696298
   * **E-mail:** vlarusweb@gmail.com
   * **[LinkedIn](https://www.linkedin.com/in/vladimirs-babesko-b89858230/)**
+  
 ---
 ### **About Myself:**
 
@@ -23,6 +24,7 @@ Hardworking Intern Front-End Developer not afraid to go the extra mile. Good tea
   * **CSS**
   * **JS** (base)
   * **Figma** (Software)
+
 ---
 ### **Licenses & certifications:**
 
@@ -48,12 +50,14 @@ Hardworking Intern Front-End Developer not afraid to go the extra mile. Good tea
 
 1. Learn the Command Line Course
 2. Learn Git & GitHub
+
 ---
 ### **Courses in progress...**
 
 1. RS school - JS/FE Pre-School 2022Q4
 2. Udemy - The Complete 2023 Web Development Bootcamp
 3. Codecademy Pro - Front-End Engineer Career Path
+
 ---
 ### **Code example:**
 
