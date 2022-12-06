@@ -61,6 +61,20 @@ Hardworking Intern Front-End Developer not afraid to go the extra mile. Good tea
 ---
 ### **Code example:**
 
+```
+const colors = document.querySelectorAll('.colors');
+const selectList = document.querySelector('.select__list');
+
+selectList.addEventListener('change' , (event) => {
+  [...colors].forEach((color) => {
+    color.classList.remove('colors--active');
+    if (color.id === event.target.value) {
+      color.classList.add('colors--active');
+    }
+  });
+});
+```
+
 ---
 ### **Languages:**
 
