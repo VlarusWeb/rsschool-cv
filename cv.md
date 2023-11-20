@@ -87,3 +87,9 @@ cities.forEach(city => {
 ```
 
 ---
+
+### **Languages:**
+
+* **English** - Pre-intermediate
+* **Latvian** - Professional working proficiency
+* **Russian** - Native
