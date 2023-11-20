@@ -18,3 +18,18 @@ Hardworking Intern Front-End Developer not afraid to go the extra mile. Good tea
 **PS** *I am a typical "switcher" who decided to change my job field and do what I like to do, work with pleasure.*
 
 ---
+
+### **Experience in the IT field:**
+
+*I have no commercial experience...yet.*
+
+---
+
+### **Skills:**
+
+* **HTML**
+* **CSS**
+* **JS**
+* **Figma**
+
+---
